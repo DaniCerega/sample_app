@@ -1,4 +1,5 @@
 # Ruby on Rails Tutorial sample application
+This is a project I made as a training for the new workplace.
 ## Getting started
 To get started with the app, clone the repo and then install the needed gems:
 ```
